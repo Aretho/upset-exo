@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/kn81iu19uyoo1tu/UpSet%20data.csv?dl=0",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 4 }
+	]
+}
